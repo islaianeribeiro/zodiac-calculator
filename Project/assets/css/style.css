@@ -90,3 +90,17 @@ span {
 .social a:hover {
     color: #8a59b4;
 }
+
+@media (min-width: 425px) {
+    .container {
+        flex-wrap: wrap;
+    }
+
+    .content {
+        width: 100%;
+    }
+
+    .title {
+        display: block;
+    }
+}
