@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+*.hack linguist-detectable=false
+*.php linguist-language=PHP
+
