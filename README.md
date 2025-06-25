@@ -20,6 +20,17 @@ Aplicação web desenvolvida com foco educacional para calcular o **signo zodiac
 
 ---
 
+## 🌟 Funcionalidades
+
+- Formulário para o usuário inserir sua data de nascimento;
+- Lógica PHP que identifica o signo com base na data;
+- Leitura do arquivo XML contendo os dados dos signos (nome, data de início e fim);
+- Layout adaptável a diferentes dispositivos com uso de Bootstrap;
+- Estilização refinada com CSS adicional;
+- Rodando 100% localmente com XAMPP.
+- 
+---
+
 ## 📦 Instalação e Execução
 
 Siga os passos abaixo para executar o projeto localmente com o XAMPP:
@@ -45,17 +56,6 @@ http://localhost/zodiac-calculator
 
 - Certifique-se de que o Apache está ativo no XAMPP.
 - O nome da pasta dentro de `htdocs` deve ser `zodiac-calculator` (ou correspondente ao caminho que você usar na URL).
-
----
-
-## 🌟 Funcionalidades
-
-- Formulário para o usuário inserir sua data de nascimento;
-- Lógica PHP que identifica o signo com base na data;
-- Leitura do arquivo XML contendo os dados dos signos (nome, data de início e fim);
-- Layout adaptável a diferentes dispositivos com uso de Bootstrap;
-- Estilização refinada com CSS adicional;
-- Rodando 100% localmente com XAMPP.
 
 ---
 
