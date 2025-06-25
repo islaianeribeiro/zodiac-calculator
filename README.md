@@ -28,7 +28,7 @@ Aplicação web desenvolvida com foco educacional para calcular o **signo zodiac
 - Layout adaptável a diferentes dispositivos com uso de Bootstrap;
 - Estilização refinada com CSS adicional;
 - Rodando 100% localmente com XAMPP.
-- 
+ 
 ---
 
 ## 📦 Instalação e Execução
